@@ -3,7 +3,7 @@ A calculator based on 8 bit ALU, supporting operator precedence.
 一个16位计算器，带有优先级运算
 ## Introduction
 
-**It is based on my course project and I upload them as a reference when you meet obstacles. So to be honor and do not plagiarize the code.**
+**It is based on my course project and I upload them as a reference when you meet troubles. So to be honor and do not plagiarize the code.**
 
 This is a 16-bit calculator and it is based on a 8-bit alu module. Support add(+), subtract(-), and(&), or, compare.
 这是一个16位计算器，它基于一个8位的alu模块，支持加、减、与、或以及比较运算。
