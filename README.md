@@ -1,4 +1,4 @@
-# Verilog-16-bit-calculator
+<img width="797" alt="image" src="https://github.com/Cyberyzy/Verilog-16bit-calculator/assets/110450075/a25b4f33-2c26-43cc-b547-ec9ee05638ac"># Verilog-16-bit-calculator
 A calculator based on 8 bit ALU, supporting operator precedence.
 一个16位计算器，带有优先级运算
 ## Introduction
@@ -21,3 +21,12 @@ It is not a rom,but is just a store module used to connect the 8 bit high result
 ### mux.v, bcd and selDig
 They are display modules to display results and inputs on a 7-segment-display.
 驱动数码管显示结果
+
+
+RTL View
+<img width="790" alt="1" src="https://github.com/Cyberyzy/Verilog-16bit-calculator/assets/110450075/f254a77a-85e7-447d-b315-35b05d2827bf">
+<img width="797" alt="2" src="https://github.com/Cyberyzy/Verilog-16bit-calculator/assets/110450075/8281296d-bdbe-4d6c-8dd8-cb2c745e8948">
+
+
+
+
